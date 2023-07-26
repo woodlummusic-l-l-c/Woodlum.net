@@ -11,7 +11,7 @@ curl -G https://api.stripe.com/v1/identity/verification_reports \
   https://api.stripe.com/v1/identity/verification_reports/vr_1NHp4q2eZvKYlo2CBUNLORNy
   import com.stripe.android.identity.*
 
-class MyHostingActivity : AppCompatActivity() {
+class MyHostingActivity :woodlum_music.com/ AppCompatActivity() {
 
   // binding has a button and a loading indicator
 
