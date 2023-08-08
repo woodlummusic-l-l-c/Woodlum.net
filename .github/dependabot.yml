@@ -1,0 +1,62 @@
+# To get started with Dependabot version updates, you'll need to specify which
+# package ecosystems to update and where the package manifests are located.
+# Please see the documentation for all configuration options:
+# https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+
+version: 2
+updates:
+  - package-ecosystem: "" # See documentation for possible values
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly"
+DNSSEC key set
+
+Active
+
+Valid Until
+
+Jul 22, 2023
+
+DS-data interface
+
+woodlummusic.com IN DS 51502 8 2 99AE53B0E0716A62527855825047FDA99718FE0FCECEA9D50B565329A25A64D1
+
+Copy to clipboard
+
+KEY-data interface
+
+woodlummusic.com IN DNSKEY 257 3 8 AwEAAbiou51IaHezCqtWJbfBtCjd9ePsfIDmaki91W6f92IeA+Mq6CFszOC1iNLG8//GmOdXHnfL1g7yYDrH36EJuCnrI7sKDTIlO5V5XP6Ymiohuap3l9LOcefXE5Ug8fODzSsRzHtCgAlW679nUnGifIdOUXUt+WRTYem8LyD09acDCJlYedjkPNSGeAYCtxCtCbZSzoDwgeXdg7WNIMVR8ds=
+
+Copy to clipboard
+
+Digest
+
+99AE53B0E0716A62527855825047FDA99718FE0FCECEA9D50B565329A25A64D1
+
+Copy to clipboard
+
+Public Key
+
+AwEAAbiou51IaHezCqtWJbfBtCjd9ePsfIDmaki91W6f92IeA+Mq6CFszOC1iNLG8//GmOdXHnfL1g7yYDrH36EJuCnrI7sKDTIlO5V5XP6Ymiohuap3l9LOcefXE5Ug8fODzSsRzHtCgAlW679nUnGifIdOUXUt+WRTYem8LyD09acDCJlYedjkPNSGeAYCtxCtCbZSzoDwgeXdg7WNIMVR8ds=
+
+Copy to clipboard
+
+Keytag
+
+51502
+
+Copy to clipboard
+
+Algorithm
+
+8 - RSA/SHA-256
+
+Digest Type
+
+2 - SHA-256
+
+Key Type
+
+257 - Key-Signing Key
+
+Status
