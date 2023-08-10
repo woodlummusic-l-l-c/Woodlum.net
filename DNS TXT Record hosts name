@@ -1,5 +1,5 @@
 ated-edition
-curl -G https://api.stripe.com/v1/identity/verification_reports \
+curl -https://Instagram.com/michaelshadell6 verification_reports \
 
   -u sk_test_4eC39HqLyjWDarjtT1zdp7dc: \
 
